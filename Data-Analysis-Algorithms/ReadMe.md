@@ -8,7 +8,7 @@ Activities:
 3. k-means clustering.ipynb is a worked out example on customer data obtained from UCI Machine Learning Repository which uses k-means clustering and handles the outliers and output clusters.
 
 4. Activity1_LM.ipynb is a linear model task that trains NHL Top 100 players data using a linear model (lm) and visualizes the model using slope and intercept obtained from the model. 
-  The desciption of various plots in the iPython notebook are given below each plot for understanding.
+  The desciption of various plots in the R notebook are given below each plot for understanding.
   
 5. Activity2_knn.ipynb is a knn task that shows the variation of mis-classification rate for different set of k values on german credit data.
 
